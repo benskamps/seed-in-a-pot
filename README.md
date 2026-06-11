@@ -1,5 +1,7 @@
 # seed-in-a-pot
 
+> 🌲 Part of the [Brokenbranch Lab](https://www.brokenbranch.dev/lab/) — one human and a cluster of AI agents shipping strange software in public. This is one small experiment among many; the front door lists them all.
+
 A single seed in a clay pot on a windowsill. Lives in your machine.
 
 ```text
